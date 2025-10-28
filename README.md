@@ -1,3 +1,4 @@
+<img width="476" height="266" alt="image" src="https://github.com/user-attachments/assets/e0f61c6d-4ee2-44b6-aaeb-347f46e25ca3" />
 # The Tranquity 
 This is a projection based immersive art piece on the emotion of Tranquility and relaxation. 
 
@@ -10,5 +11,3 @@ Touchdesigner
 ## Credits
 Touchdesigner projection designed by Shinya Masuyama
 
-
-<img width="476" height="266" alt="image" src="https://github.com/user-attachments/assets/e0f61c6d-4ee2-44b6-aaeb-347f46e25ca3" />
